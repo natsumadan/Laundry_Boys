@@ -1,5 +1,6 @@
 # Laundry_Boys
-This project is our 
+This project is our submission for the unit IFN649 Laundry Boys Which will help you understand when to do the laundry and 
+when not too.
 
 
 
