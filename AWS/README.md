@@ -18,8 +18,9 @@ Here we:
 
 In order to run the code:
 
-1) Run: 
-       sudo pip3 install paho-mqtt” 
+1) Run:
+       sudo pip3 install paho-mqtt 
+       
   (broker that subscribes to EC2)
 
 2) Run “sudo pip3 install awsiotsdk” (broker that published to IoW Core)
