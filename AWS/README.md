@@ -19,7 +19,8 @@ Here we:
 In order to run the code:
 
 1) Run:
-       sudo pip3 install paho-mqtt 
+ 
+sudo pip3 install paho-mqtt 
        
   (broker that subscribes to EC2)
 
